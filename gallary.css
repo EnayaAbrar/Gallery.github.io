@@ -1,0 +1,24 @@
+.bodyall{
+    background-image: url(./image/pngwing.com\ \(6\).png);
+    background-repeat: no-repeat;
+    height: 50%;
+}
+.link{
+    text-decoration: none;
+    background-color: rgb(255, 191, 240);
+    width: 300px;
+    margin-top: 280px;
+    margin-left: 500px;
+    border-radius: 1rem;
+   font-size: larger;
+}
+.link:hover{
+    background-color: whitesmoke;
+}
+.type{
+    margin-top: 150px;
+    margin-left: 350px;
+}
+.pic1{
+    margin-top: 10px;
+}
